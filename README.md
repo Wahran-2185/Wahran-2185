@@ -9,50 +9,25 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Halamji</h1>
+<h1 align="center">Hi 👋, I'm Wahran</h1>
 
 
 
-<h3 align="center">A passionate AI4S developer and Chemical Engineer from China</h3>
+<h3 align="center">A passionate full-stack developer and EE Engineer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wahran-2185&label=Profile%20views&color=0e75b6&style=flat" alt="Wahran-2185" /> </p>
 
 
 
-- 💬 Ask me  **all about AI4S, LCA, ChemE and Digital Twin**
+- 💬 Ask me  **all about PLC**
 
-- ⚡ Fun fact **I love Marathon**
+- ⚡ Fun fact **I love Basketball**
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wahran-2185&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wahran-2185&theme=dark)
 
 ---
 
-<p align="center">
-	<table>
-		<tr>
-		<td align="center">
-		    <picture>
-		    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/Wahran-2185/Wahran-2185/profile-3d-contrib/profile-night-green.svg?clear=1" />
-		    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Wahran-2185/Wahran-2185/profile-3d-contrib/profile-season-animate.svg?clear=1" />
-		    <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/Wahran-2185/Wahran-2185/profile-3d-contrib/profile-season-animate.svg?clear=1" />
-		    </picture>
-		</td>
-		</tr>
-	</table>
-</p>
-
-<h3 align="left"></h3>
-<p align="left">
-</p>
-
-<p align="center">
-		    <picture>
-		    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Wahran-2185/Wahran-2185/output/github-contribution-grid-snake-dark.svg" width="1000" />
-		    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahran-2185/Wahran-2185/output/github-contribution-grid-snake.svg" width="1000" />
-		    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Wahran-2185/Wahran-2185/output/github-contribution-grid-snake.svg" width="1000" />
-		    </picture>
-</p>
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
@@ -234,19 +209,6 @@
 ```
 
 ---
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-dark.svg" />
-</picture>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
